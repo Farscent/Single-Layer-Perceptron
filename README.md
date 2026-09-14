@@ -9,7 +9,7 @@ The notebook performs forward propagation, sigmoid activation, prediction, squar
 
 ## Files
 
-- `SPL_Farhan_536804.ipynb` — main Jupyter Notebook containing the dataset, SLP implementation, training, validation, and charts.
+- `SLP_Farhan_536804.ipynb` — main Jupyter Notebook containing the dataset, SLP implementation, training, validation, and charts.
 
 ## Dataset
 
